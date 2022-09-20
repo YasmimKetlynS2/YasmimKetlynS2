@@ -2,7 +2,7 @@
 - 👀 olá meu nome é ketlyn
 - 🌱 meu email de contato é ketlyn.maschio@escola.pr.gov.br
 - 👍 eu estou interessada em aprender a progamar novas linguagens
-- 📫 How to reach me ...
+- 📫 Colégio Estadual Tânia Varella Ferreira
 
 <!---
 YasmimKetlynS2/YasmimKetlynS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
